@@ -1,0 +1,5 @@
+The goodies selected for employees distribution are : 
+Samsung Galaxy M31s: 18499
+Xiaomi Redmi Note 10 Pro: 15999
+Realme Narzo 30 Pro: 16999
+The difference between the chosen goodie with highest price and the lowest price is 2500
